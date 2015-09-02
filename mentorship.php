@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>A-CELL WEBSITE</title>
+  <title>Students' Alumni Cell</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -15,9 +15,12 @@
   .box
   {
 		background-color:orange;
-	
+	    border-radius:8px;
   }
-  
+ body{
+	 
+	 background-image:url('b.jpeg');
+ }
  
   
   </style>
@@ -32,19 +35,14 @@
   <br >
   <div id="wrapper">
 	
-		<h1 align="center">STUDENTS' ALUMNI CELL</h1>
+		<h1 align="center">Mentorship</h1>
 	</div>
   <?php include 'navbar.php' ; ?>
  <br>
  <hr> 
  <br>
 
-  <div class="container">
-  
-     <center>
-    <!-- Wrapper for slides -->
-    <?php include 'slider.php' ; ?>
-	</center>  </div>
+ 
 	 
 	  <hr>
 	 <br><br>
@@ -81,25 +79,25 @@
       <div class="row" >
     <div  class="col-sm-3" id="verticalLine">
       
-      <img src="1.jpg" alt="" class="img-circle" width="250" height="204">
+      <img src="1.jpg" alt="" class="img-rounded" width="250" height="204">
     </div>
 	
 	
     <div  class="col-sm-3" id="verticalLine">
 	
       
-       <img src="2.jpg" alt="" class="img-circle" width="250" height="204">
+       <img src="2.jpg" alt="" class="img-rounded" width="250" height="204">
     </div>
 	
     <div  class="col-sm-3" id="verticalLine">
 	
           
-       <img src="3.jpg" alt="" class="img-circle" width="250" height="204">
+       <img src="3.jpg" alt="" class="img-rounded" width="250" height="204">
    </div>
    <div  class="col-sm-3" id="verticalLine">
 	
         
-       <img src="4.jpg" alt="" class="img-circle" width="250" height="204">
+       <img src="4.jpg" alt="" class="img-rounded" width="250" height="204">
     </div>
    </div>
   </div>

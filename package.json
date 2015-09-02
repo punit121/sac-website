@@ -1,0 +1,23 @@
+{
+  "name": "sac-website",
+  "version": "1.0.0",
+  "description": "Website of the Students' Alumni Cell, IIT Kharagpur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/students-alumni-cell-iitkgp/sac-website.git"
+  },
+  "author": "Siddharth Kannan <kannan.siddharth12@gmail.com> (http://icyflame.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/students-alumni-cell-iitkgp/sac-website/issues"
+  },
+  "homepage": "https://github.com/students-alumni-cell-iitkgp/sac-website#readme",
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
