@@ -20,7 +20,7 @@
 		<div class="container" style="position:relative;left:30px;top:60px;">
 			<img src="http://placehold.it/100x100" alt="logo" style="float:left" />
 			
-			<h1 style="color: #0000A0;"><center>STUDENTS' ALUMNI CELL</center></h1>
+			<h1 style="color:#493D26;"><center>STUDENTS' ALUMNI CELL</center></h1>
 			
 		</div>
 		<br><br><br><br>
