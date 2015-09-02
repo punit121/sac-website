@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang='eng'>
 <body>
-
-<div id='cssmenu'>
+ <div class="container-fluid" align="center">
+<div id='cssmenu' style="position:relative;left:80px;right:80px;">
 <ul>
    <li class="active has-sub"><a href='index.php'>HOME</a></li>
    <li class='has-sub'><a href='#'>EVENTS</a>
@@ -26,6 +26,6 @@
    <li><a href='#'>CONTACT</a></li>
 </ul>
 </div>
-
+</div>
 </body>
 <html>

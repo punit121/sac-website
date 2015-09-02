@@ -17,7 +17,7 @@
         
 		<div id="big_wrapper">
 		
-		<div class="container" style="position:relative;left:30px;top:60px;">
+		<div class="container" style="position:relative;left:10px;top:60px;right:10px;">
 			<img src="http://placehold.it/100x100" alt="logo" style="float:left" />
 			
 			<h1 style="color:#493D26;"><center>STUDENTS' ALUMNI CELL</center></h1>
